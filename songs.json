@@ -1,0 +1,30 @@
+[
+    {
+        "name": "The Rain's Low Rhyme",
+        "path": "songs/1.1_The_Rain_s_Low_Rhyme.mp3"
+    },
+    {
+        "name": "Coffee Sprint Running",
+        "path": "songs/1_coffee_sprint_review_running.mp3"
+    },
+    {
+        "name": "Routine",
+        "path": "songs/2_routine.mp3"
+    },
+    {
+        "name": "The Last Train",
+        "path": "songs/3_After_The_Last_Train.mp3"
+    },
+    {
+        "name": "Streetlights",
+        "path": "songs/4_Streetlights_and_Rainfall.mp3"
+    },
+    {
+        "name": "Rain Train",
+        "path": "songs/5_rain_train.mp3"
+    },
+    {
+        "name": "Window Seat",
+        "path": "songs/6_Window_Seat_Ritual.mp3"
+    }
+]
